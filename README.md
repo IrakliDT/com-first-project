@@ -1,6 +1,8 @@
+site is live at https://iraklidt.github.io/comm-first-project/
+
 # com-first-project
 
-# HTML
+## HTML
 
 hi, this is my first homework in comm school.
 
